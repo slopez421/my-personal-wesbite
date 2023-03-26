@@ -37,7 +37,19 @@ div#body {
     border: 2px solid black;
     font-family: "Courier New";
     font-size: 25px;
-    font-
+    
+}
+div#art {
+    margin: 0 auto;
+    background-color: #61499f;
+    width: 800px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 25px;
+    border: 2px solid black;
+    font-family: "Courier New";
+    font-size: 25px;
+    
 }
 
 img {
@@ -52,4 +64,8 @@ img {
 
 a:hover {
     color: pink;
+}
+
+table {
+    margin: 0 auto;
 }

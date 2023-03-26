@@ -7,3 +7,4 @@ document.getElementById("about").onclick = function() {myFunction()};
 function myFunction() {
   document.getElementById("about").innerHTML = "About Me";
 }
+
