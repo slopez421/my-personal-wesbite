@@ -1,5 +1,5 @@
 body {
-    
+    background-color: #b4a7d6;
 }
 
 #navbar {
@@ -15,8 +15,8 @@ body {
 }
 
 div#top-header {
-    text-align: center;
-    background-color: #b24202;
+    text-align: left;
+    background-color: #61499f;
     width: 800px;
     height: 50px;
     padding: 20px;
@@ -29,12 +29,21 @@ div#top-header {
 
 div#body {
     margin: 0 auto;
-    background-color: #f9c999;
+    background-color: #61499f;
     width: 800px;
     height: 400px;
     padding: 20px;
     border-radius: 25px;
     border: 2px solid black;
     font-family: "Courier New";
+    font-size: 25px;
+    font-
 }
 
+img {
+    width: 20%;
+    border-radius: 100%;
+    border: 2px solid black;
+    float: left;
+    margin-right: 40px;
+}
