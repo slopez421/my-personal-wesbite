@@ -43,7 +43,7 @@ div#art {
     margin: 0 auto;
     background-color: #61499f;
     width: 800px;
-    height: 400px;
+    height: 1500px;
     padding: 20px;
     border-radius: 25px;
     border: 2px solid black;
@@ -52,7 +52,7 @@ div#art {
     
 }
 
-img {
+img#me {
     width: 20%;
     border-radius: 100%;
     border: 2px solid black;
@@ -61,11 +61,19 @@ img {
     margin-bottom: 20px;
 }
 
-
+img#boxes {
+    width: 90%;
+    margin: 0 auto;
+}
 a:hover {
     color: pink;
 }
 
-table {
+table, th, td {
+
     margin: 0 auto;
+    border: 2px solid;
+    padding: 10px;
+    border-collapse: collapse;
+    
 }
